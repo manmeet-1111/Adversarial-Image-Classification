@@ -11,6 +11,7 @@ A comprehensive research study evaluating adversarial attacks and defense mechan
 - EfficientNet adversarial training achieves 96.79%, the best defense result overall
 - No single architecture performs best across all attack and defense scenarios
 
+
 ## Dataset
 - Name: Chest X-Ray Pneumonia
 - Source: Hugging Face
