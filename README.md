@@ -55,9 +55,9 @@ A comprehensive research study evaluating adversarial attacks and defense mechan
 ## Result Visualizations
 
 ### ResNet50
-![Attack Summary](results/attack_summary.png)
-![Defense Comparison](results/defense_comparison.png)
-![Grad-CAM Visualization](results/gradcam_visualization.png)
+![Attack Summary](results_resnet50/attack_summary.png)
+![Defense Comparison](results_resnet50/defense_comparison.png)
+![Grad-CAM Visualization](results_resnet50/gradcam_visualization.png)
 
 ### DenseNet121
 ![Attack Summary](results_densenet121/attack_summary.png)
